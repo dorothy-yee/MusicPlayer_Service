@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicPlayer_Service_2018110357张玉兰</string>
+    <string name="button_play">play</string>
+    <string name="button_stop">stop</string>
+    <string name="button_next">next</string>
+    <string name="button_pause">pause</string>
+    <string name="button_prev">prev</string>
+    <string name="loading">loading......</string>
+</resources>
